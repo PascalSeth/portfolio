@@ -36,7 +36,7 @@ const Navbar = () => {
           </div>
         </div>
 
-        <div className="flex flex-row  gap-5">
+        <div className="flex flex-row space-x-3">
             <a target="_blank" href="https://www.instagram.com/pascal_.seth/">
             <Image
               src="/instagram.svg"
