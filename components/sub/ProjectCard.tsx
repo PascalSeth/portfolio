@@ -11,7 +11,7 @@ interface Props {
 const ProjectCard = ({ src, title, description, link }: Props) => {
   const renderContent = () => {
     return (
-      <div className="relative z-40 overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]">
+      <div className="relative z-40 overflow-hidden rounded-lg h-72 shadow-lg border border-[#2A0E61]">
         <Image
           src={src}
           alt={title}
