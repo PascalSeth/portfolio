@@ -48,6 +48,12 @@ const Projects = () => {
           description="E-commerce"
           link="https://ecommerceshop-zeta.vercel.app/"
         />
+        <ProjectCard
+          src="/projects/akrikeep.png"
+          title="E-commerce "
+          description="E-commerce"
+          link="https://afrikeep.vercel.app/"
+        />
       </div>
     </div>
   );
