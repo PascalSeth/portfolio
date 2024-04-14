@@ -37,7 +37,7 @@ const Projects = () => {
         />
 
           <ProjectCard
-          src="/projects/grandcanyon.png"
+          src="/projects/admin.png"
           title="admin Dashboard"
           description="AdmiN Dashboard Landing Page"
           link="https://myclean-admin-dep.vercel.app/"
