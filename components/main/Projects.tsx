@@ -50,7 +50,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/projects/akrikeep.png"
-          title="E-commerce "
+          title="AgriKeeper "
           description="E-commerce"
           link="https://afrikeep.vercel.app/"
         />
