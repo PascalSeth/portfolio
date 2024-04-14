@@ -47,7 +47,7 @@ const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
         
-As a seasoned Full Stack Software Engineer, I bring a wealth of experience in crafting innovative solutions across diverse domains encompassing Website, Mobile, and Software development. With proficiency in cutting-edge technologies such as React, Next.js, Firebase, Node.js, and Redux, I've successfully delivered robust and scalable applications that meet the dynamic needs of modern businesses. My passion for creating seamless user experiences is reflected in my portfolio of projects, showcasing my expertise in leveraging these technologies to drive tangible results. Explore my projects and skills to witness firsthand the quality and depth of my work in the realm of software engineering.
+As a seasoned Full Stack Software Engineer, I bring a wealth of experience in crafting innovative solutions across diverse domains encompassing Website, Mobile, and Software development. With proficiency in cutting-edge technologies such as React, Next.js, Firebase, Node.js, and Redux, I&apos;ve successfully delivered robust and scalable applications that meet the dynamic needs of modern businesses. My passion for creating seamless user experiences is reflected in my portfolio of projects, showcasing my expertise in leveraging these technologies to drive tangible results. Explore my projects and skills to witness firsthand the quality and depth of my work in the realm of software engineering.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
