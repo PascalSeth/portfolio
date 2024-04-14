@@ -42,6 +42,12 @@ const Projects = () => {
           description="Admin Dashboard Landing Page"
           link="https://myclean-admin-dep.vercel.app/"
         />
+        <ProjectCard
+          src="/projects/ecommerce.png"
+          title="E-commerce "
+          description="E-commerce"
+          link="https://ecommerceshop-zeta.vercel.app/"
+        />
       </div>
     </div>
   );
