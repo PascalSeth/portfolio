@@ -26,7 +26,7 @@ const Projects = () => {
         <ProjectCard
           src="/projects/grandcanyon.png"
           title="Grand Canyon Landing Page"
-          description="Grand Canyon Landing Page"
+          description="Grand Canyon Landing "
           link="https://pascalseth.github.io/grandcanyon/"
         />
          <ProjectCard
@@ -38,8 +38,8 @@ const Projects = () => {
 
           <ProjectCard
           src="/projects/admin.png"
-          title="admin Dashboard"
-          description="AdmiN Dashboard Landing Page"
+          title="Admin Dashboard"
+          description="Admin Dashboard Landing Page"
           link="https://myclean-admin-dep.vercel.app/"
         />
       </div>

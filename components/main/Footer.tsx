@@ -19,31 +19,23 @@ const Footer = () => {
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">Community</div>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <FaYoutube />
-                        <span className="text-[15px] ml-[6px]">Youtube</span>    
-                    </p>
-                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]">Github</span>    
-                    </p>
-                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <RxDiscordLogo />
-                        <span className="text-[15px] ml-[6px]">Discord</span>    
+                        <a href="https://github.com/PascalSeth" className="text-[15px] ml-[6px]">Github</a>    
                     </p>
                 </div>
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">Social Media</div>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <FaYoutube />
-                        <span className="text-[15px] ml-[6px]">Instagram</span>    
+                        <a href="https://www.instagram.com/pascal_.seth/" className="text-[15px] ml-[6px]">Instagram</a>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]">Twitter</span>    
+                        <a href="https://twitter.com/pascal_seth" className="text-[15px] ml-[6px]">Twitter</a>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxDiscordLogo />
-                        <span className="text-[15px] ml-[6px]">Linkedin</span>    
+                        <a href="https://www.linkedin.com/in/pascal-seth-955331254/?lipi=urn%3Ali%3Apage%3Anotifications_index_index%3Bbf9b458c-6583-4501-ae08-f51184cf680d" className="text-[15px] ml-[6px]">Linkedin</a>    
                     </p>
                 </div>
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
@@ -58,13 +50,13 @@ const Footer = () => {
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                   
-                        <span className="text-[15px] ml-[6px]">mifwebchain@gmail.com</span>    
+                        <span className="text-[15px] ml-[6px]">pascalelikem@gmail.com</span>    
                     </p>
                 </div>
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; WebChain Dev 2023 Inc. All rights reserved
+                &copy; Pascalseth Inc. All rights reserved
             </div>
         </div>
     </div>
